@@ -35,6 +35,12 @@ $items['apple'] = 'りんご';
 $items['peach'] = 'もも';
 $items['grapes'] = 'グレープ';
 
+// 中身
+// array (size=3)
+//   'apple' => string 'りんご' (length=9)
+//   'peach' => string 'もも' (length=6)
+//   'grapes' => string 'グレープ' (length=12)
+
 echo $items['grapes'];
 ?>
 </p>
