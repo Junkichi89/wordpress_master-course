@@ -13,4 +13,5 @@
 
 <!-- Custom styles for this template -->
 <link href="<?php echo get_template_directory_uri(); ?>/css/clean-blog.min.css" rel="stylesheet">
+<link href="<?php echo get_template_directory_uri(); ?>/css/mailform.css" rel="stylesheet">
 <?php wp_head(); ?>
